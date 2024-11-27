@@ -27,7 +27,7 @@ This repository contains a simple online menu built using React.js.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iamhosen/react-restaurant-app.git
+   git clone https://github.com/u3m2a1/restaurant.git
 
 2. Navigate to the project directory:
    
