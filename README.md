@@ -50,8 +50,6 @@ This repository contains a simple online menu built using React.js.
 
 ## Credits
 
-This Restaurant App is developed by Hossein Amirhosseini.
+This Restaurant App is developed by Uma Kalleplly.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
